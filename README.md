@@ -17,7 +17,7 @@
 •	Почетното мени се наоѓа во класата Form2, тоа се состои од копчиња за почеток на игра,правила на играта, преглед на најдобри играчи и излез од играта. Истотака класата содржи тајмер со кој се анимира движењето на текстот „Македонска верзија“.
 •	Во класата Form1 се содржи самата игра. До оваа форма се престигнува со притискање на копчето „Нова Игра“ во Form2. Со помош на тајмерот „vremeTimer“ се променува текстот за преостанато време додека тајмерот „timerInterval“ го содржи времето пред крај на играта. Со тајмерот randomTimeMoleсе определува брзината на кртот, а со тајмерот timerZaPcovkaи функцијата swear() се пробува неуспешна имплементација на балонче за пцовка кога играчот ке го промаши кртот.
 ![](https://raw.githubusercontent.com/MartinTheCreator/UbijGoKrtotProekt/master/resursi/Screenshot_1.png)
-![](https://raw.githubusercontent.com/MartinTheCreator/UbijGoKrtotProekt/master/resursi/Screenshot_3.png)
+![](https://raw.githubusercontent.com/MartinTheCreator/UbijGoKrtotProekt/master/resursi/img.png)
 Дел од сорс-кодот:
 
 
