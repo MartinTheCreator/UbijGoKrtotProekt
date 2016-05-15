@@ -1,7 +1,8 @@
 # Убиј го кртот
 
 ![alt tag](http://www.fmu.ukim.edu.mk/Images/ukim.png)
-
+![alt tag](ttps://lh6.ggpht.com/RVVKrvSEOfWxysutcTQHG_t8vgzQp-ELwQPO7sbbFcTg8od_zKhFqC_jLWt3Ci6bDF4=w300)
+h
 
 Како тема на проектот одбравме имплементација на една постара добро познатаадиктивна аркадна игра„Whack-a-mole“. Играта е многу едноставна за учење но тешка за напредување. 
 •	Со помош на маусот корисникот контролира виртуелна пушка и истата ја користи за да го убие кртот. 
