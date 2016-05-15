@@ -1,0 +1,60 @@
+c:\users\flamur\documents\visual studio 2012\Projects\Убиј го кртот\Убиј го кртот\bin\Debug\Убиј го кртот.exe.config
+c:\users\flamur\documents\visual studio 2012\Projects\Убиј го кртот\Убиј го кртот\bin\Debug\Убиј го кртот.exe
+c:\users\flamur\documents\visual studio 2012\Projects\Убиј го кртот\Убиј го кртот\bin\Debug\Убиј го кртот.pdb
+c:\users\flamur\documents\visual studio 2012\Projects\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form1.resources
+c:\users\flamur\documents\visual studio 2012\Projects\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Properties.Resources.resources
+c:\users\flamur\documents\visual studio 2012\Projects\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Resource1.resources
+c:\users\flamur\documents\visual studio 2012\Projects\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј го кртот.csproj.GenerateResource.Cache
+c:\users\flamur\documents\visual studio 2012\Projects\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј го кртот.exe
+c:\users\flamur\documents\visual studio 2012\Projects\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј го кртот.pdb
+c:\users\flamur\documents\visual studio 2012\Projects\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј го кртот.csprojResolveAssemblyReference.cache
+C:\Users\Flamur\Documents\Visual Studio 2012\Projects\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form2.resources
+C:\Users\Flamur\Documents\Visual Studio 2012\Projects\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form3.resources
+C:\Users\zare_\Desktop\konecenkrt\Убиј го кртот\bin\Debug\Убиј го кртот.exe.config
+C:\Users\zare_\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј го кртот.exe
+C:\Users\zare_\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј го кртот.pdb
+C:\Users\zare_\Desktop\konecenkrt\Убиј го кртот\bin\Debug\Убиј го кртот.exe
+C:\Users\zare_\Desktop\konecenkrt\Убиј го кртот\bin\Debug\Убиј го кртот.pdb
+C:\Users\zare_\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј го кртот.csprojResolveAssemblyReference.cache
+C:\Users\zare_\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form1.resources
+C:\Users\zare_\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form2.resources
+C:\Users\zare_\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form3.resources
+C:\Users\zare_\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј_го_кртот.Properties.Resources.resources
+C:\Users\zare_\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј_го_кртот.Resource1.resources
+C:\Users\zare_\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј го кртот.csproj.GenerateResource.Cache
+C:\Users\Flamur\Desktop\konecenkrt\Убиј го кртот\bin\Debug\Убиј го кртот.exe.config
+C:\Users\Flamur\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј го кртот.exe
+C:\Users\Flamur\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј го кртот.pdb
+C:\Users\Flamur\Desktop\konecenkrt\Убиј го кртот\bin\Debug\Убиј го кртот.exe
+C:\Users\Flamur\Desktop\konecenkrt\Убиј го кртот\bin\Debug\Убиј го кртот.pdb
+C:\Users\Flamur\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј го кртот.csprojResolveAssemblyReference.cache
+C:\Users\Flamur\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form1.resources
+C:\Users\Flamur\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form2.resources
+C:\Users\Flamur\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form3.resources
+C:\Users\Flamur\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј_го_кртот.Properties.Resources.resources
+C:\Users\Flamur\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј_го_кртот.Resource1.resources
+C:\Users\Flamur\Desktop\konecenkrt\Убиј го кртот\obj\Debug\Убиј го кртот.csproj.GenerateResource.Cache
+D:\Algoritmi\Folder\Убиј го кртот\Убиј го кртот\bin\Debug\Убиј го кртот.exe.config
+D:\Algoritmi\Folder\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј го кртот.exe
+D:\Algoritmi\Folder\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј го кртот.pdb
+D:\Algoritmi\Folder\Убиј го кртот\Убиј го кртот\bin\Debug\Убиј го кртот.exe
+D:\Algoritmi\Folder\Убиј го кртот\Убиј го кртот\bin\Debug\Убиј го кртот.pdb
+D:\Algoritmi\Folder\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј го кртот.csprojResolveAssemblyReference.cache
+D:\Algoritmi\Folder\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form1.resources
+D:\Algoritmi\Folder\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form2.resources
+D:\Algoritmi\Folder\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form3.resources
+D:\Algoritmi\Folder\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Properties.Resources.resources
+D:\Algoritmi\Folder\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Resource1.resources
+D:\Algoritmi\Folder\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј го кртот.csproj.GenerateResource.Cache
+C:\Users\zare_\Desktop\Убиј го кртот\Убиј го кртот\bin\Debug\Убиј го кртот.exe.config
+C:\Users\zare_\Desktop\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј го кртот.exe
+C:\Users\zare_\Desktop\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј го кртот.pdb
+C:\Users\zare_\Desktop\Убиј го кртот\Убиј го кртот\bin\Debug\Убиј го кртот.exe
+C:\Users\zare_\Desktop\Убиј го кртот\Убиј го кртот\bin\Debug\Убиј го кртот.pdb
+C:\Users\zare_\Desktop\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј го кртот.csprojResolveAssemblyReference.cache
+C:\Users\zare_\Desktop\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form1.resources
+C:\Users\zare_\Desktop\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form2.resources
+C:\Users\zare_\Desktop\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Form3.resources
+C:\Users\zare_\Desktop\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Properties.Resources.resources
+C:\Users\zare_\Desktop\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј_го_кртот.Resource1.resources
+C:\Users\zare_\Desktop\Убиј го кртот\Убиј го кртот\obj\Debug\Убиј го кртот.csproj.GenerateResource.Cache
