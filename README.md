@@ -1,7 +1,6 @@
 # Убиј го кртот
 
-![alt tag](http://www.fmu.ukim.edu.mk/Images/ukim.png)
-![alt tag](https://www.finki.ukim.mk/Content/contentImages/about_faculty_menustructure/Logo%20FINKI/logo.png)
+![finki ukim logo]({{site.baseurl}}/http://old.finki.ukim.mk/Style/images/frontEnd/layout/finki-logo-10.jpg)
 
 
 Како тема на проектот одбравме имплементација на една постара добро познатаадиктивна аркадна игра„Whack-a-mole“. Играта е многу едноставна за учење но тешка за напредување. 
@@ -51,5 +50,3 @@
         }
 
 Со овој код е представен системот на куршуми во пушката. Shooting е метода која кога е повикана доколку има куршуми испукува куршум и ја освежува сликата за куршуми, доколку бројот на куршуми е 1 одкако ќе се испука куршумот пушката заглавува и чека евент односно притискање на копчето space.
-
-
