@@ -1,6 +1,9 @@
 # Убиј го кртот
 
 ![finki ukim logo](http://old.finki.ukim.mk/Style/images/frontEnd/layout/finki-logo-10.jpg)
+![](https://raw.githubusercontent.com/MartinTheCreator/UbijGoKrtotProekt/master/resursi/signFinal.png)
+![](https://raw.githubusercontent.com/MartinTheCreator/UbijGoKrtotProekt/master/resursi/Screenshot_1.png)
+![](https://raw.githubusercontent.com/MartinTheCreator/UbijGoKrtotProekt/master/resursi/Screenshot_3.png)
 
 
 Како тема на проектот одбравме имплементација на една постара добро познатаадиктивна аркадна игра„Whack-a-mole“. Играта е многу едноставна за учење но тешка за напредување. 
